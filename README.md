@@ -7,5 +7,5 @@ $ cd tiktok
 $ python2 axis-tiktok.py
 
 Script python2 Sedot Kuota Axis Tiktok Auto Reguler
-Wa 087721815317
+Wa https://wa.me/6281999250149
 ````
